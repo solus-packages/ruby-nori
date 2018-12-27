@@ -2,8 +2,8 @@
     <Source>
         <Name>ruby-nori</Name>
         <Packager>
-            <Name>Peter O&apos;Connor</Name>
-            <Email>peter@solus-project.com</Email>
+            <Name>F. von Gellhorn</Name>
+            <Email>flinux@vongellhorn.ch</Email>
         </Packager>
         <License>MIT</License>
         <PartOf>programming.ruby</PartOf>
@@ -19,47 +19,47 @@
 </Description>
         <PartOf>programming.ruby</PartOf>
         <Files>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/build_info</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/doc</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/extensions</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/nori-2.6.0/.gitignore</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/nori-2.6.0/.rspec</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/nori-2.6.0/.travis.yml</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/nori-2.6.0/CHANGELOG.md</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/nori-2.6.0/Gemfile</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/nori-2.6.0/LICENSE</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/nori-2.6.0/README.md</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/nori-2.6.0/Rakefile</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/nori-2.6.0/benchmark/benchmark.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/nori-2.6.0/benchmark/soap_response.xml</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/nori-2.6.0/lib/nori.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/nori-2.6.0/lib/nori/core_ext.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/nori-2.6.0/lib/nori/core_ext/hash.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/nori-2.6.0/lib/nori/core_ext/object.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/nori-2.6.0/lib/nori/core_ext/string.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/nori-2.6.0/lib/nori/parser/nokogiri.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/nori-2.6.0/lib/nori/parser/rexml.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/nori-2.6.0/lib/nori/string_io_file.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/nori-2.6.0/lib/nori/string_with_attributes.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/nori-2.6.0/lib/nori/version.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/nori-2.6.0/lib/nori/xml_utility_node.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/nori-2.6.0/nori.gemspec</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/nori-2.6.0/spec/nori/api_spec.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/nori-2.6.0/spec/nori/core_ext/hash_spec.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/nori-2.6.0/spec/nori/core_ext/object_spec.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/nori-2.6.0/spec/nori/core_ext/string_spec.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/nori-2.6.0/spec/nori/nori_spec.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/nori-2.6.0/spec/spec_helper.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/specifications/nori-2.6.0.gemspec</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/build_info</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/doc</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/extensions</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/nori-2.6.0/.gitignore</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/nori-2.6.0/.rspec</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/nori-2.6.0/.travis.yml</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/nori-2.6.0/CHANGELOG.md</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/nori-2.6.0/Gemfile</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/nori-2.6.0/LICENSE</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/nori-2.6.0/README.md</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/nori-2.6.0/Rakefile</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/nori-2.6.0/benchmark/benchmark.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/nori-2.6.0/benchmark/soap_response.xml</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/nori-2.6.0/lib/nori.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/nori-2.6.0/lib/nori/core_ext.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/nori-2.6.0/lib/nori/core_ext/hash.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/nori-2.6.0/lib/nori/core_ext/object.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/nori-2.6.0/lib/nori/core_ext/string.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/nori-2.6.0/lib/nori/parser/nokogiri.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/nori-2.6.0/lib/nori/parser/rexml.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/nori-2.6.0/lib/nori/string_io_file.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/nori-2.6.0/lib/nori/string_with_attributes.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/nori-2.6.0/lib/nori/version.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/nori-2.6.0/lib/nori/xml_utility_node.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/nori-2.6.0/nori.gemspec</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/nori-2.6.0/spec/nori/api_spec.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/nori-2.6.0/spec/nori/core_ext/hash_spec.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/nori-2.6.0/spec/nori/core_ext/object_spec.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/nori-2.6.0/spec/nori/core_ext/string_spec.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/nori-2.6.0/spec/nori/nori_spec.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/nori-2.6.0/spec/spec_helper.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/specifications/nori-2.6.0.gemspec</Path>
         </Files>
     </Package>
     <History>
-        <Update release="1">
-            <Date>2018-03-23</Date>
+        <Update release="2">
+            <Date>2018-12-26</Date>
             <Version>2.6.0</Version>
             <Comment>Packaging update</Comment>
-            <Name>Peter O&apos;Connor</Name>
-            <Email>peter@solus-project.com</Email>
+            <Name>F. von Gellhorn</Name>
+            <Email>flinux@vongellhorn.ch</Email>
         </Update>
     </History>
 </PISI>

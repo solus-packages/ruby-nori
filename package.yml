@@ -1,6 +1,6 @@
 name       : ruby-nori
 version    : 2.6.0
-release    : 1
+release    : 2
 source     :
     - https://rubygems.org/downloads/nori-2.6.0.gem : f629a4e92fe394e78f9441d55e71f5606ce8c045f3cc81f326f70b45ce61dc18
 license    : MIT
@@ -9,7 +9,7 @@ summary    : RubyGem - nori
 description: |
     XML to Hash translator.
 builddeps  :
-    - pkgconfig(ruby-2.3)
+    - pkgconfig(ruby-2.6)
 rundeps    :
     - ruby
 install    : |
